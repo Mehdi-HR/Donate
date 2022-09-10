@@ -30,9 +30,8 @@
 
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
 
-
- <img src="https://user-images.githubusercontent.com/82706421/189496931-afc33332-152a-4813-8bf4-db675762ac6e.png" width="300px">
  <img src="https://user-images.githubusercontent.com/82706421/189496961-b64e559f-7276-4d7f-8f1f-209a5518b32a.png" width="300px">
+ <img src="https://user-images.githubusercontent.com/82706421/189496931-afc33332-152a-4813-8bf4-db675762ac6e.png" width="300px">
 
 </div>
 
@@ -46,7 +45,7 @@
 
 </div>
 
-## Search
+## Search by name
 
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
 
@@ -56,7 +55,7 @@
 
 </div>
 
-## Filter
+## Filter by category
 
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
 
